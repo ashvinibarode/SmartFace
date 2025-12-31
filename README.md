@@ -1,2 +1,2 @@
-# SmartFace
-Face Detection Attendence App
+# FaceAttend
+Anoroid base Face Detection Attendence App
